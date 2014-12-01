@@ -24,6 +24,6 @@ li a {
 	opacity: 0;
 }
 
-#scrollingheader .isviviewable {
+#scrollingheader.isviviewable {
 	opacity: 1;
 } 
